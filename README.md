@@ -5,7 +5,7 @@ A sample python webserver project in Docker which prints the hostname and IP of 
 The aim is to configure two GitHub actions, in the project to automate CI.
 
 ### Step 1
-Fork this repository into your own account in order to ba able to modify it and to be able to make new commits.
+Fork this repository into your own account in order to be able to modify it and to be able to make new commits.
 
 ### Step 2 - Add a workflow to check the syntax of the python application
 Go to the *Actions* button, search for an action named "Python application".
